@@ -2,14 +2,23 @@
 
 # Generative_Adversarial_Networks
 
+
+
 ### This repository contains the assignments and projects of coursera specialization on GANs.
 
 
 
-Generative Adversarial Networks (GANs) Specialization
-This Repository Contains Solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai on Coursera Taught by Sharon Zhou
+## [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 
-Courses
+
+
+This Repository Contains Solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai on Coursera Taught by [Sharon Zhou](https://www.coursera.org/instructor/sharon-zhou)
+
+
+
+### Courses
+
+
 1 - Build Basic Generative Adversarial Networks (GANs)
 Week 1 - Your First GAN
 Week 2 - Deep Convolutional GAN (DCGAN)
