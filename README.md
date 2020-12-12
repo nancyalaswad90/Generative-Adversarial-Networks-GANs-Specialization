@@ -56,3 +56,9 @@ References
 Build Basic Generative Adversarial Networks (GANs)
 Build Better Generative Adversarial Networks (GANs)
 Apply Generative Adversarial Networks (GANs)
+
+
+Build Better Generative Adversarial Networks (GANs)
+![Build Better Generative Adversarial Networks.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607802371/Build_Better_Generative_Adversarial_Networks.png)
+
+
