@@ -19,7 +19,9 @@ This Repository Contains Solution to the Assignments of the Generative Adversari
 ### Courses
 
 
-1 - Build Basic Generative Adversarial Networks (GANs)
+
+1 - [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/d196ae5617e13af2f3916ae98d588931)
+
 
  Week 1 - Your First GAN
  Week 2 - Deep Convolutional GAN (DCGAN)
@@ -27,6 +29,9 @@ This Repository Contains Solution to the Assignments of the Generative Adversari
  Week 4 - Conditional GAN & Controllable Generation
 Conditional GAN
 Controllable Generation
+
+
+.
 
 
 
@@ -41,10 +46,12 @@ Week 3 - Cycle-GAN
 
 
 
+
+
 ### Certificates
 
 
-- Build Basic Generative Adversarial Networks (GANs)
+- [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/d196ae5617e13af2f3916ae98d588931)
 
 - [Build Better Generative Adversarial Networks (GANs)](https://coursera.org/share/193a45c400d404a6ad52bbfffeb471c0)
 
