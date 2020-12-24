@@ -24,10 +24,20 @@ This Repository Contains Solution to the Assignments of the Generative Adversari
 
 
  Week 1 - Your First GAN
+ 
+ 
  Week 2 - Deep Convolutional GAN (DCGAN)
+ 
+ 
  Week 3 - WGAN
+ 
+ 
  Week 4 - Conditional GAN & Controllable Generation
+ 
+ 
 Conditional GAN
+
+
 Controllable Generation
 
 
@@ -39,8 +49,15 @@ Controllable Generation
 
 
 [2 - Build Better Generative Adversarial Networks (GANs)]()
+
+
+
 Week 1 - Fréchet Inception Distance
+
+
 Week 2 - Bias
+
+
 Week 3 - Style-GAN
 
 .
@@ -53,8 +70,15 @@ Week 3 - Style-GAN
 
 
 3 - Apply Generative Adversarial Networks (GANs)
+
+
+
 Week 1 - Data Augmentation
+
+
 Week 2 - U-Net + Pix2Pix
+
+
 Week 3 - Cycle-GAN
 
 
