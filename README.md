@@ -33,12 +33,25 @@ Controllable Generation
 
 .
 
+> ![Gan.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1608840129/Gan.png)
+
+.
 
 
 [2 - Build Better Generative Adversarial Networks (GANs)]()
 Week 1 - Fréchet Inception Distance
 Week 2 - Bias
 Week 3 - Style-GAN
+
+.
+
+> ![Build Better Generative Adversarial Networks.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607802371/Build_Better_Generative_Adversarial_Networks.png)
+
+
+.
+
+
+
 3 - Apply Generative Adversarial Networks (GANs)
 Week 1 - Data Augmentation
 Week 2 - U-Net + Pix2Pix
@@ -66,6 +79,5 @@ Apply Generative Adversarial Networks (GANs)
 
 
 Build Better Generative Adversarial Networks (GANs)
-![Build Better Generative Adversarial Networks.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607802371/Build_Better_Generative_Adversarial_Networks.png)
 
 
