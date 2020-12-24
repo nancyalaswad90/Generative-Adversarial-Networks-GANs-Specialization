@@ -48,7 +48,7 @@ Controllable Generation
 .
 
 
-[2 - Build Better Generative Adversarial Networks (GANs)]()
+[2 - Build Better Generative Adversarial Networks (GANs)]((https://coursera.org/share/193a45c400d404a6ad52bbfffeb471c0))
 
 
 
