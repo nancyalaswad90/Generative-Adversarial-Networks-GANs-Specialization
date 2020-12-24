@@ -62,7 +62,8 @@ Week 3 - Style-GAN
 
 .
 
-> ![Build Better Generative Adversarial Networks.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607802371/Build_Better_Generative_Adversarial_Networks.png)
+> ![Gan](https://user-images.githubusercontent.com/36210723/103105755-6ca81600-4638-11eb-9e83-76b1ecc657a4.png)
+
 
 
 .
