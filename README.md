@@ -32,13 +32,7 @@ This Repository Contains Solution to the Assignments of the Generative Adversari
  Week 3 - WGAN
  
  
- Week 4 - Conditional GAN & Controllable Generation
- 
- 
-Conditional GAN
-
-
-Controllable Generation
+ Week 4 - Conditional GAN & Controllable Generation  ( Conditional GAN + Controllable Generation ) 
 
 
 .
